@@ -1,1 +1,1 @@
-<img src="/unexpected-01.png">
+<img src="https://rokubinary.github.io/unexpected-01.png">
